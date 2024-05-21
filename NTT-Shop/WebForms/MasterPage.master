@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" %>  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">  
+
+<script runat="server">  
+    
+</script>  
+
+<html >  
+<head runat="server">  
+    <title>NTT-Shop Master</title>  
+    <link rel="stylesheet" href="style.css"/>
+</head>  
+<body>  
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="smMaster" runat="server" EnablePartialRendering="true" EnableScriptGlobalization="true" ></asp:ScriptManager>
+        <div class="fixed-header">
+            <div class="container">
+                <nav>
+                    <a href="Example.aspx">Example</a>
+                    <a href="PageLanguage.aspx">Lenguajes</a>
+                    <a href="PageProducts.aspx">Productos</a>
+                    <a href="PageCarrito.aspx" style="float:right">🛒</a>
+                    <a href="LoginPage.aspx" style="float:right">Cerrar sesión</a>   
+                    <a href="DataUserPage.aspx" style="float:right">Cuenta</a>
+                    <a href="PageOrders.aspx" style="float:right">Pedidos</a>
+                </nav>               
+            </div>
+            
+        </div>
+
+    <div class="container">
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server" />  
+    </div>  
+    <div class="fixed-footer">
+        <div class="container">
+            <nav>
+                <a href="https://es.nttdata.com">nttdata.com</a>
+            </nav>
+        </div>        
+    </div>    
+    </form>  
+
+</body>  
+</html>  

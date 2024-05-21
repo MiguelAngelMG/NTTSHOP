@@ -1,0 +1,284 @@
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\NTT-Shop.dll.config
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\NTT-Shop.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\NTT-Shop.pdb
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\csc.exe
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\csc.exe.config
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\csc.rsp
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\csi.exe
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\csi.exe.config
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\csi.rsp
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.AppContext.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Console.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\vbc.exe
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\vbc.exe.config
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\vbc.rsp
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csprojAssemblyReference.cache
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csproj.CoreCompileInputs.cache
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csproj.CopyComplete
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.dll
+C:\Users\rastorgc\source\repos\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.pdb
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\NTT-Shop.dll.config
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\NTT-Shop.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\NTT-Shop.pdb
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\csc.exe
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\csc.exe.config
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\csc.rsp
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\csi.exe
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\csi.exe.config
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\csi.rsp
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.AppContext.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Console.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\vbc.exe
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\vbc.exe.config
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\vbc.rsp
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csprojAssemblyReference.cache
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csproj.CoreCompileInputs.cache
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csproj.CopyComplete
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.dll
+C:\Users\rastorgc\Desktop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.pdb
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\NTT-Shop.dll.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\NTT-Shop.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\NTT-Shop.pdb
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\csc.exe
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\csc.exe.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\csc.rsp
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\csi.exe
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\csi.exe.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\csi.rsp
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.AppContext.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Console.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\vbc.exe
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\vbc.exe.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\vbc.rsp
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csprojAssemblyReference.cache
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csproj.CoreCompileInputs.cache
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csproj.CopyComplete
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.pdb
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\obj\Debug\NTT-Shop.csproj.CoreCompileInputs.cache
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\NTT-Shop.dll.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\NTT-Shop.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\NTT-Shop.pdb
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\csc.exe
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\csc.exe.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\csc.rsp
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\csi.exe
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\csi.exe.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\csi.rsp
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.AppContext.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Console.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\vbc.exe
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\vbc.exe.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\vbc.rsp
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\AjaxControlToolkit.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\obj\Debug\NTT-Shop.csproj.CopyComplete
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\obj\Debug\NTT-Shop.dll
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\obj\Debug\NTT-Shop.pdb
+C:\Users\rastorgc\Desktop\FCT\NTT-Shop - ejemplos\NTT-Shop\obj\Debug\NTT-Shop.csprojAssemblyReference.cache
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\NTT-Shop.dll.config
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\NTT-Shop.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\NTT-Shop.pdb
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\csc.exe
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\csc.exe.config
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\csc.rsp
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\csi.exe
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\csi.exe.config
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\csi.rsp
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.AppContext.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Console.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\vbc.exe
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\vbc.exe.config
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\vbc.rsp
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\AjaxControlToolkit.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csproj.AssemblyReference.cache
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csproj.CoreCompileInputs.cache
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.csproj.Up2Date
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\obj\Debug\NTT-Shop.pdb
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\Newtonsoft.Json.dll
+C:\Users\mmargime\OneDrive - NTT DATA EMEAL\Escritorio\FRONT\NTT-Shop\NTT-Shop\NTT-Shop\bin\Newtonsoft.Json.xml

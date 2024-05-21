@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pageorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pageorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pageorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pageorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\models\\entities\\productrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\models\\entities\\productrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|c:\\users\\mmargime\\onedrive - ntt data emeal\\escritorio\\front\\ntt-shop\\ntt-shop\\ntt-shop\\webforms\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\models\\modeldac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\models\\modeldac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pagecarrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pagecarrito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pagecarrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pagecarrito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\models\\entities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\models\\entities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\models\\entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\models\\entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\signuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\signuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\models\\entities\\elementoscarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\models\\entities\\elementoscarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pageproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pageproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pageproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pageproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\masterpage.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\masterpage.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\masterloginpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\masterloginpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pageproducts.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pageproducts.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pageorders.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pageorders.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pagelanguage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pagelanguage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pagecarrito.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pagecarrito.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pagelanguage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pagelanguage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\datauserpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\datauserpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\pageproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\pageproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\datauserpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\datauserpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\ntt-shop\\webforms\\example.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713EB916-9332-434E-804F-A843A7DB9A67}|NTT-Shop\\NTT-Shop.csproj|solutionrelative:ntt-shop\\webforms\\example.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRates.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\ProductRates.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\Models\\Entities\\ProductRates.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\ProductRates.cs",
+              "RelativeToolTip": "NTT-Shop\\Models\\Entities\\ProductRates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:16:55.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageCarrito.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageCarrito.aspx.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageCarrito.aspx.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageCarrito.aspx.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageCarrito.aspx.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAhwHAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:29:23.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelDAC.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\ModelDAC.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\Models\\ModelDAC.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\ModelDAC.cs",
+              "RelativeToolTip": "NTT-Shop\\Models\\ModelDAC.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAcwI8BAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:13:43.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\LoginPage.aspx.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\LoginPage.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:14:01.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageOrders.aspx",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageOrders.aspx",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageOrders.aspx",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-26T11:20:54.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageOrders.aspx.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageOrders.aspx.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageOrders.aspx.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:21:30.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageCarrito.aspx",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageCarrito.aspx",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageCarrito.aspx",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageCarrito.aspx",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageCarrito.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T08:29:08.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\Rate.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\Models\\Entities\\Rate.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\Rate.cs",
+              "RelativeToolTip": "NTT-Shop\\Models\\Entities\\Rate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:17:37.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "NTT-Shop\\Models\\Entities\\Order.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAASwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:11:50.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\Models\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "NTT-Shop\\Models\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:51:49.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "NTT-Shop\\Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:54:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\Models\\Entities\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\OrderStatus.cs",
+              "RelativeToolTip": "NTT-Shop\\Models\\Entities\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:58:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ElementosCarrito.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\ElementosCarrito.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\Models\\Entities\\ElementosCarrito.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\Models\\Entities\\ElementosCarrito.cs",
+              "RelativeToolTip": "NTT-Shop\\Models\\Entities\\ElementosCarrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:01:01.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PageProducts.aspx",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageProducts.aspx",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageProducts.aspx",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageProducts.aspx",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageProducts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-23T06:25:01.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignUpPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\SignUpPage.aspx.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\SignUpPage.aspx.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\SignUpPage.aspx.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\SignUpPage.aspx.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAjwFcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:30:30.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\style.css",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\style.css",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\style.css",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\style.css",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAgwNwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-23T09:40:43.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignUpPage.aspx",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\SignUpPage.aspx",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\SignUpPage.aspx",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\SignUpPage.aspx",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\SignUpPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T10:41:29.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\LoginPage.aspx",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T13:24:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MasterPage.master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\MasterPage.master.designer.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\MasterPage.master.designer.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\MasterPage.master.designer.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\MasterPage.master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:54:21.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PageProducts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageProducts.aspx.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageProducts.aspx.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageProducts.aspx.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageProducts.aspx.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:33:11.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MasterLoginPage.master",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\MasterLoginPage.master",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\MasterLoginPage.master",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\MasterLoginPage.master",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\MasterLoginPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T13:25:09.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\MasterPage.master",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\MasterPage.master",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\MasterPage.master",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\MasterPage.master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-23T06:16:45.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MasterPage.master.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\MasterPage.master.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\MasterPage.master.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\MasterPage.master.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\MasterPage.master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:07:48.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PageProducts.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageProducts.aspx.designer.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageProducts.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageProducts.aspx.designer.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageProducts.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:14:46.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PageLanguage.aspx",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageLanguage.aspx",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageLanguage.aspx",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageLanguage.aspx",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageLanguage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-23T06:32:29.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PageOrders.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageOrders.aspx.designer.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageOrders.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageOrders.aspx.designer.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageOrders.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:21:42.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PageCarrito.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageCarrito.aspx.designer.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageCarrito.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageCarrito.aspx.designer.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageCarrito.aspx.designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwHEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:29:34.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PageLanguage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageLanguage.aspx.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageLanguage.aspx.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageLanguage.aspx.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageLanguage.aspx.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAQwOUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:40:25.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataUserPage.aspx",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\DataUserPage.aspx",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\DataUserPage.aspx",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\DataUserPage.aspx",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\DataUserPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-23T07:51:41.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PageProducts.aspx.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageProducts.aspx.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\PageProducts.aspx.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\PageProducts.aspx.cs [Dise\u00F1o]",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\PageProducts.aspx.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:30:46.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DataUserPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\DataUserPage.aspx.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\DataUserPage.aspx.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\DataUserPage.aspx.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\DataUserPage.aspx.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAEwH0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:47:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Example.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\Example.aspx.cs",
+              "RelativeDocumentMoniker": "NTT-Shop\\WebForms\\Example.aspx.cs",
+              "ToolTip": "C:\\Users\\mmargime\\OneDrive - NTT DATA EMEAL\\Escritorio\\FRONT\\NTT-Shop\\NTT-Shop\\NTT-Shop\\WebForms\\Example.aspx.cs",
+              "RelativeToolTip": "NTT-Shop\\WebForms\\Example.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:46:38.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
