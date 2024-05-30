@@ -57,7 +57,7 @@ namespace NTT_Shop.WebForms
             {
                 foreach (var rate in product.rates)
                 {
-                    if (rate.idRate == user.Rate)
+                    if (rate.idRate == user.Rate && product.enabled is true)
                     {
                         productListShow.Add(product);
 
