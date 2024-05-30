@@ -15,8 +15,9 @@
                                     <label style="float:left">Login:</label>
                                     <asp:TextBox ID="txtLogin" MaxLength="100" runat="server"></asp:TextBox>
                                     <br />
-                                    <label style="float:left">Password:</label>
-                                    <asp:TextBox ID="txtPassword" MaxLength="100" TextMode="Password" runat="server"></asp:TextBox>
+                                    <div class="col-5 d-grid gap-2" style="margin-top: 10px;">
+                                        <asp:Button runat="server" ID="btnCambiarC" Text="Cambiar Contraseña"  OnClick="btnCambiarC_Click"  class="btn btn-outline-secondary"/>
+                                    </div>
                                     <br />
                                     <label style="float:left">Nombre:</label>
                                     <asp:TextBox ID="txtNombre" MaxLength="100" runat="server"></asp:TextBox>
