@@ -68,7 +68,7 @@
         
                            <asp:TemplateField>
                                 <ItemTemplate>
-                                    <asp:TextBox ID="txtCantidades" runat="server" Text="1" CssClass="txtCantidades" type="number" min="0"/> 
+                                    <asp:TextBox ID="txtCantidades" runat="server" Text="1" CssClass="txtCantidades" type="number" min="1" max='<%# Eval("stock") %>' /> 
                                 </ItemTemplate>
                                 <ControlStyle Width="30px" />
                                 <ItemStyle Width="30px" />

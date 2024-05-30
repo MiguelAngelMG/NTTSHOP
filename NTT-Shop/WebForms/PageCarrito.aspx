@@ -38,7 +38,8 @@
                             <td><%# Eval("Item1.description[0].description") %></td>
                             <td><asp:Label ID="lblPrice" runat="server" Text='<%# Eval("Item1.rates[0].price") + "€"  %>'></asp:Label></td>
                             <a href="PageLanguage.aspx">PageLanguage.aspx</a>
-                            <td><asp:TextBox ID="lblCantidad" runat="server" Text='<%# Eval("Item2") %>' type="number" min="0" AutoPostBack="True" OnTextChanged="lblCantidad_TextChanged"></asp:TextBox></td>
+                            <td><asp:TextBox ID="lblCantidad" runat="server" Text='<%# Eval("Item2") %>' type="number" min="1" max='<%# Eval("Item1.stock") %>' AutoPostBack="True" OnTextChanged="lblCantidad_TextChanged"></asp:TextBox></td>
+                                <asp:Label ID="lblStockError" runat="server" ForeColor="Red" Visible="false"></asp:Label>
                             <td><asp:Label ID="lblTotalPrice" runat="server" Text='<%# (Convert.ToDecimal(Eval("Item2")) * Convert.ToDecimal(Eval("Item1.rates[0].price"))).ToString() + "€"  %>'></asp:Label></td>
                             <td><asp:Button ID="btn_Eliminar" runat="server" Text="🗑️" OnClick="btnEliminar_click"/></td>
                         </tr>

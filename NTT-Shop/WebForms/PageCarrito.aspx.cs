@@ -54,6 +54,11 @@ namespace NTT_Shop.WebForms
 
         }
 
+        private void Cantidad()
+        {
+       
+        }
+
         public void LoadListView()
         {
 
