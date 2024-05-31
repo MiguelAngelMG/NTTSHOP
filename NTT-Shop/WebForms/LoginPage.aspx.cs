@@ -23,6 +23,7 @@ namespace NTT_Shop.WebForms
     { 
         ModelDAC model = new ModelDAC();
         protected void Page_Load(object sender, EventArgs e)
+        
         { 
             if (!IsPostBack)
             {
