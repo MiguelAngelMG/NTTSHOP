@@ -13,6 +13,10 @@ namespace NTT_Shop.WebForms
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["session-id"] == null && Session["session-language"] == null)
+            {
+                Response.Redirect("~/WebForms/LoginPage.aspx");
+            }
             if (!IsPostBack && Session["session-id"] != null)
             {
                 LoadGridView();
