@@ -44,7 +44,6 @@ namespace NTT_Shop.WebForms
             userData = model.GetUser(Session["session-id"].GetHashCode());
 
             txtLogin.Text = userData.Login;
-            txtPassword.Text = userData.Password;
             txtNombre.Text = userData.Name;
             txtApellido.Text = userData.Surname1;
             txtSegundoApellido.Text = userData.Surname2;
@@ -63,8 +62,6 @@ namespace NTT_Shop.WebForms
                 enableTextBox(true);
                 btn_Edit.Text = "Actualizar";
                 txtLogin.Enabled = false;
-                txtPassword.Enabled = false;
-                txtEmail.Enabled = false;
             }
             else
             {
@@ -124,7 +121,6 @@ namespace NTT_Shop.WebForms
         {
            
             txtLogin.Enabled = type;
-            txtPassword.Enabled = type;
             txtNombre.Enabled = type;
             txtApellido.Enabled = type;
             txtSegundoApellido.Enabled = type;
@@ -144,6 +140,7 @@ namespace NTT_Shop.WebForms
                 && !string.IsNullOrWhiteSpace(request.Surname1)
                 && !string.IsNullOrWhiteSpace(request.Email)
                 && !string.IsNullOrWhiteSpace(request.Languages)
+                && correoLibre(request.Email, request.PkUser)
                 && request.PkUser > 0
                 && request.Rate != 0)
             {
@@ -190,6 +187,26 @@ namespace NTT_Shop.WebForms
                 return false;
             }
 
+        }
+
+        protected void btnCambiarC_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("CambiarContrasenya.aspx");
+        }
+        private bool correoLibre(string correo, int idUser) 
+        {
+            bool resultado = true;
+            List<User> lista = model.GetAllUser();
+
+
+            foreach (User usuario in lista)
+            {
+                if (usuario.PkUser != idUser)
+                {
+                    if (usuario.Email == correo) resultado = false;
+                }
+            }
+            return resultado;
         }
     }
 }

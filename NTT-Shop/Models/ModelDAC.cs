@@ -91,6 +91,33 @@ namespace NTT_Shop.Models
 
             return insertado;
         }
+        public List<User> GetAllUser()
+        {
+            List<User> usuarios = new List<User>();
+
+            try
+            {
+                string url = baseUrl + "Users/getAllUsers";
+                var httpRequest = (HttpWebRequest)WebRequest.Create(url);
+                httpRequest.Method = "GET";
+
+                var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
+
+                using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
+                {
+                    var result = streamReader.ReadToEnd();
+                    var json = JObject.Parse(result);
+                    var usuarioArray = json["usersList"].ToObject<JArray>();
+                    usuarios = usuarioArray.ToObject<List<User>>();
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error al obtener los usuarios: {ex.Message}");
+            }
+
+            return usuarios;
+        }
         #endregion
         #region Peticiones Rate
         public Rate GetRate(int idRate)
