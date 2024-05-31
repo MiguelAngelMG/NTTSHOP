@@ -26,10 +26,14 @@ namespace NTT_Shop.WebForms
         { 
             if (!IsPostBack)
             {
+                Session["session-compra"] = null;
+                Session["session-language"] = null;
+                Session["session-id"] = null;
 
             }
-            Session["session-compra"] = "";
-            Session["session-language"] = "";
+            Session["session-compra"] = null;
+            Session["session-language"] = null;
+            Session["session-id"] = null;
         }
 
         protected void SignIn_Click(object sender, EventArgs e)
@@ -61,7 +65,9 @@ namespace NTT_Shop.WebForms
 
             try
             {
-
+                Session["session-id"] = null;
+                Session["session-language"] = null;
+               
                 string url = "https://localhost:7077/api/UserLogin/getLogin/" + user + "/" + password;
 
                 var httpRequest = (HttpWebRequest)WebRequest.Create(url);

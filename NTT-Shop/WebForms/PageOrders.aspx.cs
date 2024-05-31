@@ -26,6 +26,10 @@ namespace NTT_Shop.WebForms
         ModelDAC model = new ModelDAC();
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["session-id"] == null && Session["session-language"] == null)
+            {
+                Response.Redirect("~/WebForms/LoginPage.aspx");
+            }
             if (Session["session-id"] != null)
             {
                 if (!IsPostBack)
